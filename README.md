@@ -8,5 +8,5 @@ Implementation of Monte Carlo option pricing model using PyQt5 and PyQtGraph GUI
 
 ![alt text](http://i.imgur.com/i0fJmWa.png)
 
-Initial commit.
+Gets slow with the number of simulations. First commit so likely buggy.
 
